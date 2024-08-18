@@ -1,0 +1,6 @@
+this file name is 1
+
+this is newfeature code
+function newfeature(){
+    return 'abcd'
+}
